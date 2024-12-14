@@ -1,0 +1,6 @@
+# duckdb: extract from csv -> DONE
+# experiment with duckdb CLI -> DONE
+# move whole thing to a better folder -> DONE
+# work out how to submit to github -> WIP
+# find something to investigate / analyse using duckdb
+# start charting stuff
